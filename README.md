@@ -12,4 +12,4 @@ Abrir la terminal y poner npm start
 
 Abrir el enlace que aparece despues de auxiliar npm start
 
-por ultimo ir a la pagina 
+por ultimo ir a la pagina para utilizarla  
